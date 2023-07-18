@@ -1,0 +1,145 @@
+
+.co-gray ul li a{
+    color:#848484 ;
+}
+.co-gray ul li i{
+    color:#848484 ;
+}
+.co-gray{
+    border-top: 1px solid  #d3cece ;
+}
+.co-gray-1 p,i{
+    font-size: 14px;
+    color:#848484 ;
+    margin: 0%;
+
+}
+.co-gray-1{
+    padding: 10px 0;
+}
+.co-gray-1 i{
+    font-size: 20px;
+    margin-right: 5px;
+}
+.js-e{
+    justify-content: space-evenly;
+}
+.fn-w-40{
+    font-weight: 400;
+}
+.bc-img h2{
+    position: absolute;
+    top: 175px;
+    margin: 0;
+}
+.bc-img p{
+    position: absolute;
+    top: 125px;
+}
+.po-r a{
+    position: absolute;
+    top: 229px;
+    text-decoration: none;
+}
+.bc-img i{
+    font-size: 17px;
+    color: rgb(255, 217, 0);
+}
+#bc-g{
+    color: rgb(255, 217, 0);
+    
+}
+.al{
+    left: 151px;
+}
+.bc-img img{
+    width: 100%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center; 
+    opacity: 0.3;
+    position: relative;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid rgb(212, 209, 209);
+    padding: 10px;
+    font-weight: 600;
+}
+.tabel-p{
+    padding: 20px 0;
+}
+.cent{
+    text-align: center;
+}
+.tabel-p tr:nth-child(2n+2) td:first-child {
+    background: #20a3ff;
+}
+.tabel-p tr td:first-child {
+    background: #0096ff;
+    border: 0;
+    color: #fff;
+}
+.tabel-p tr th {
+    background: #efefef;
+    padding: 25px;
+    vertical-align: center;
+    font-size: 18px;
+    border: 0;
+}
+#tb-w{
+    background-color: #fff;
+}
+#fn-s-28 th{
+    font-size: 28px;
+    
+}
+#fn-s-28-1{
+    font-size: 28px;
+}
+.rech-icon i{
+    font-size: 30px;
+    position: relative;
+    top: 27px;
+    margin-left: 20px;
+    color: #0096ff;
+}
+#c-L{
+    width: 90%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+#w100 input{
+    width: 263%;
+}
+tr td button{
+    padding: 20px;
+}
+#red i{
+    color: red;
+}
+tr td i {
+    color: green;
+}
+iframe{
+    width: 100%;
+    height: 300px;
+}
+.co-icon i{
+    font-size: 40px;
+    display: block;
+}
+.icon-col{
+    border-bottom: 1px solid rgb(212, 209, 209);
+}
+.icon-c i{
+    font-size: 45px;
+    padding-right: 10px;
+}
+.pading10{
+    padding: 0 8px;
+}

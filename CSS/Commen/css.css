@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+}
+.d-flex{
+    display: flex;
+}
+.max-w{
+    max-width: 1145px;
+    margin: auto;
+
+}
+.max-w-2{
+    max-width: 1050px;
+    margin: auto;
+}
+.fn-s-40{
+    font-size: 40px;
+    
+}
+.fn-s-60{
+    font-size: 60px;
+}
+.padding{
+    padding: 50px 0;
+}
+.fn-s-18{
+    font-size: 18px;
+}
+.fn-s-16{
+    font-size: 16px;
+  
+}
+.fn-w-16{
+    font-weight: 600;
+
+}
+.fn-w-14{
+    font-weight: 600;
+
+}
+.fn-s-14{
+    font-size: 14px;
+}
+.fn-s-20{
+    font-size: 20px;
+    
+}
+.al-item{
+    align-items: center;
+}
+.fn-s-28 th{
+    font-size: 28px;
+}
+.fn-s-25{
+    font-size: 25px;
+}
+.fn-s-19{
+    font-size: 19px;
+}
+.list ul li a{
+    text-decoration: none;
+
+}
+.list ul li{
+    
+    list-style-type: none;
+}
+.list ul{
+    padding: 0%;
+}
+.jes{
+    text-align: justify;
+}
+.w40{
+    min-width: 40%;
+
+}
+.w60{
+    min-width: 60%;
+}
+.w50{
+    width: 50%;
+}
+.w25{
+    width: 25%;
+}
+.w30{
+    width: 30%;
+}
+.w20{
+    width: 20%;
+}
+.w15{
+    width: 15%;
+}
+.js-c{
+    justify-content: space-between;
+}
+.mar-t-2{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.mar-0{
+    margin: 0%;
+}
